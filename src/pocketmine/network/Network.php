@@ -145,7 +145,7 @@ class Network {
 	public function __construct(Server $server){
 
 		$this->registerPackets();
-
+		$this->registerPackets120();
 		$this->server = $server;
 	}
 
