@@ -77,7 +77,7 @@ namespace pocketmine {
 	use pocketmine\wizard\Installer;
 
 	const VERSION = "1.1dev";
-	const API_VERSION = "3.0.1";
+	const API_VERSION = "3.0.2";
 	const CODENAME = "LlamaSpit";
 	const GENISYS_API_VERSION = '2.0.0';
 
